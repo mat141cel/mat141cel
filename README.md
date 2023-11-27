@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Mattia 
-
 I'm currently working on integrating numismatic
      data using the OAI-interface and SPARQL-queries
 
