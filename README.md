@@ -7,5 +7,5 @@ I'm currently working on integrating numismatic
 
 I'm currently learning CS50.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mat141cel&count_private=true&theme=tokyonight&showicons=true)]()
+[![Mattia's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mat141cel&count_private=true&theme=tokyonight&showicons=true)]()
 
