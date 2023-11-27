@@ -2,7 +2,7 @@
 
 ## Current work
 * integrating numismatic data using the OAI-interface and SPARQL-queries
-* topic modeling on newspaper articles 
+* topic modeling with newspaper articles 
 
 ## Skills and Experience
 * 🕸️ scraping data using python 
