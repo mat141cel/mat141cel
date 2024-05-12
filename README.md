@@ -11,9 +11,7 @@
 
   
 ## Skills and Experience
-* 🕸️ scraping data using python 
-* 🗺️ using GIS and network analysis
-* 💻 python, html, SQL, C, (R)
+* python, html, SQL, C, (R)
 
 
 
